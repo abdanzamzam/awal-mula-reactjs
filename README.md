@@ -7,4 +7,4 @@ http://awal-mula.abdan.xyz/ (demo)
 
 Preview:
 
-[https://github.com/abdanzamzam/awal-mula-reactjs/blob/main/preview/Screenshot.png]
+[!image](https://github.com/abdanzamzam/awal-mula-reactjs/blob/main/preview/Screenshot.png)
